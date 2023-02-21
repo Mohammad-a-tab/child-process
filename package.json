@@ -1,0 +1,25 @@
+{
+  "name": "child-process",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon node exec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohammad-a-tab/child-process.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohammad-a-tab/child-process/issues"
+  },
+  "homepage": "https://github.com/Mohammad-a-tab/child-process#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "nodemon": "^2.0.20"
+  }
+}
